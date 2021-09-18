@@ -16,9 +16,38 @@ Make sure that your program is calling methods to perform (at least) the followi
     previous functions, and an option to exit the program. Your program should loop until the user chooses to exit.
     In this loop you are required to use a switch statement for all possible cases.
  */
-
 public class MatrixProcessing {
     public static void main(String[] args) {
+        //TODO: Driver program
+    }
 
+    //TODO: Generate matrix method
+    public static int[][] generateMatrix() {
+        return new int[][]{};
+    }
+
+    //TODO: Add matrix method.
+    public static int addMatrix(int[] mat1, int[] mat2, int size) {
+        return 0;
+    }
+
+    //TODO: Multiply two matrices method
+    public static int multiply(int[] mat1, int[] mat2, int size) {
+        return 0;
+    }
+
+    //TODO: Multiply by a scalar method
+    public static int multiplyBy(int[] mat1, int size, int scalar) {
+        return 0;
+    }
+
+    //TODO: Print matrix method
+    public static void printMatrix(int mat) {
+
+    }
+
+    //TODO: Menu method.
+    public static void menu() {
+        //Could be value returning, I just quickly made this. Change if needed.
     }
 }

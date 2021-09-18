@@ -29,6 +29,41 @@ switch statement for all possible cases.
  */
 public class Modularity {
     public static void main(String[] args) {
+        //TODO: Driver program
+    }
+
+    //TODO: shiftLeft
+    public static void shiftLeft(int[] arr, int size) {
+
+    }
+
+    //TODO: shiftRight
+    public static void shiftRight(int[] arr, int size) {
+
+    }
+
+    //TODO: shiftLeft by k
+    public static void shiftLeft(int[] arr, int size, int k) {
+
+    }
+
+    //TODO: shiftRight by k
+    public static void shiftRight(int[] arr, int size, int k) {
+
+    }
+
+    //TODO shiftLeftK value returning
+    public static int[] shiftLeftK(int[] arr, int size, int k) {
+        return new int[]{};
+    }
+
+    //TODO: shiftRightK value returning
+    public static int[] shiftRightK(int arr, int size, int k) {
+        return new int[]{};
+    }
+
+    //TODO: menu method
+    public static void menu() {
 
     }
 }
